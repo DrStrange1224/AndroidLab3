@@ -4,333 +4,124 @@
     <string name="back_button">Back</string>
     <string name="detail_title">Tip Details</string>
 
-    <string name="tip_1_title">Early Wake-Up</string>
-    <string name="tip_1_short">Start your day one hour earlier.</string>
-    <string name="tip_1_full">
-        Waking up early gives you a sense of control over your day and a calm start without rushing.
-        Morning hours are the quietest and most productive time, with fewer distractions.
-        Use this time for planning, reading, or light physical activity.
-        Even 30–60 minutes of personal time can significantly improve your mood for the whole day.
-        Gradually, your body will adapt, and waking up will become easier. The key is maintaining a consistent sleep schedule.
-    </string>
+    <string name="tip_1_title">Spend time with your pet</string>
+    <string name="tip_1_short">Your dog may jump for joy when you walk in the door, or your cat might purr and rub against your leg when you get home.</string>
+    <string name="tip_1_full">Your dog may jump for joy when you walk in the door, or your cat might purr and rub against your leg when you get home. But being around your pet can have the same effects on your mood.</string>
 
-    <string name="tip_2_title">2-Minute Rule</string>
-    <string name="tip_2_short">Do small tasks immediately.</string>
-    <string name="tip_2_full">
-        The two-minute rule helps fight procrastination and task overload.
-        If something takes less than two minutes — do it immediately.
-        This clears your mind from unnecessary reminders and reduces stress.
-        Completing small tasks creates a sense of progress.
-        Over time, your to-do list becomes shorter and more manageable.
-        Its simplicity makes this method especially effective.
-    </string>
+    <string name="tip_2_title">Eat clementines</string>
+    <string name="tip_2_short">If you’re not a fan of citrus, it might be time to change that.</string>
+    <string name="tip_2_full">If you’re not a fan of citrus, it might be time to change that. A 2005 study published in the journal Chemical Senses found the smell of clementines made participants feel ridiculously happy and stimulated, so having one for a snack can give you a cheerful buzz.</string>
 
-    <string name="tip_3_title">Pomodoro Technique</string>
-    <string name="tip_3_short">Work in intervals.</string>
-    <string name="tip_3_full">
-        The Pomodoro Technique helps maintain focus without burnout.
-        Work fully focused for 25 minutes, then take a 5-minute break.
-        After four cycles, take a longer rest.
-        This system prevents exhaustion and maintains high productivity.
-        The brain works better knowing a break is coming.
-        Try using a timer for discipline.
-    </string>
+    <string name="tip_3_title">Practice gratitude</string>
+    <string name="tip_3_short">Giving gratitude each day is a simple way to feel happy</string>
+    <string name="tip_3_full">Whether you write it down or just think about it, giving gratitude each day is a simple way to feel happy</string>
 
-    <string name="tip_4_title">A Glass of Water</string>
-    <string name="tip_4_short">Drink water after waking up.</string>
-    <string name="tip_4_full">
-        A glass of water after waking up helps your body activate faster.
-        Overnight, the body loses fluids, and morning hydration starts metabolic processes.
-        It improves concentration and overall well-being.
-        Water also gently activates the digestive system.
-        A simple habit that requires minimal effort but provides noticeable benefits.
-        Make it part of your daily ritual.
-    </string>
+    <string name="tip_4_title">Relive a joyful moment</string>
+    <string name="tip_4_short">Reliving joyful moments instantly boots your happiness</string>
+    <string name="tip_4_full">“Research shows reliving joyful moments instantly boots your happiness,” notes Alison McKleroy, LMFT, a licensed mindfulness-based cognitive behavioral therapist, author, and founder of Center for Spark</string>
 
-    <string name="tip_5_title">Digital Detox</string>
+    <string name="tip_5_title">Color</string>
     <string name="tip_5_short">One hour without social media.</string>
-    <string name="tip_5_full">
-        A digital detox reduces anxiety and information overload.
-        Put your phone away at least an hour before bed and don’t start your morning with social media.
-        The constant flow of news and notifications drains attention.
-        Freeing this time brings more calmness.
-        Sleep becomes deeper, and mornings more productive.
-        Try replacing screen time with a book or relaxing music.
-    </string>
+    <string name="tip_5_full">Not only does coloring make you feel like a kid again, but it’s also been shown to help relieve stress and boost happiness levels. Both a 2018 study and a 2020 study found that using coloring books, as well as freehand drawing, decreased anxiety levels in adults</string>
 
-    <string name="tip_6_title">Stop-Doing List</string>
+    <string name="tip_6_title">Perform an act of kindness</string>
     <string name="tip_6_short">What NOT to do today.</string>
-    <string name="tip_6_full">
-        A stop-doing list helps consciously remove unnecessary actions from your day.
-        We often spend time on habits that bring no value.
-        Write down 2–3 such actions and avoid them today.
-        It might be mindless scrolling or postponing a difficult task.
-        Awareness increases control over your time.
-        Small restrictions bring big results.
-    </string>
+    <string name="tip_6_full">“Helping others gives a sense of purpose and joy. It creates a ‘helper’s high,’ releasing oxytocin, which lowers stress and increases feelings of happiness,” shares integrative life coach Aine Rock</string>
 
-    <string name="tip_7_title">Fresh Air</string>
+    <string name="tip_7_title">Volunteer</string>
     <string name="tip_7_short">Take a 15-minute walk.</string>
-    <string name="tip_7_full">
-        Fresh air improves circulation and supplies the brain with oxygen.
-        Even a 15-minute walk can boost your energy level.
-        It’s a great way to reset after a difficult task.
-        Movement often sparks new ideas and solutions.
-        Regular short walks positively affect mood.
-        Make them part of your workday.
-    </string>
+    <string name="tip_7_full">If you have time spare, volunteering is also a wonderful way to feel happy</string>
 
-    <string name="tip_8_title">Reading</string>
+    <string name="tip_8_title">Talk to strangers</string>
     <string name="tip_8_short">Read 10 pages.</string>
-    <string name="tip_8_full">
-        Reading develops thinking and broadens your perspective.
-        Even 10 pages a day eventually turn into dozens of finished books.
-        It’s an investment in knowledge and personal growth.
-        Choose literature that inspires or educates you.
-        Continuous learning makes you more competitive.
-        Consistency is key.
-    </string>
+    <string name="tip_8_full">Recent research shows that it’s not just your core group of family and friends that enrich your life. According to a 2022 study conducted by Harvard Business School doctoral students, talking to strangers is also important if you’re looking to boost your mood.</string>
 
-    <string name="tip_9_title">Evening Planning</string>
+    <string name="tip_9_title">Remember to smile</string>
     <string name="tip_9_short">Prepare for tomorrow.</string>
-    <string name="tip_9_full">
-        Evening planning removes morning uncertainty.
-        Write down three main tasks for tomorrow today.
-        This allows you to start the day without hesitation.
-        Clear priorities increase efficiency.
-        You act intentionally instead of reacting to circumstances.
-        This habit saves a lot of time.
-    </string>
+    <string name="tip_9_full">Smiling when you’re not happy can quickly turn your mood around, says Douglas Smith, a life coach, meditation instructor and owner of The House of Flow.</string>
 
-    <string name="tip_10_title">Clean Desk</string>
+    <string name="tip_10_title">Practice yoga</string>
     <string name="tip_10_short">Clear your workspace.</string>
-    <string name="tip_10_full">
-        An organized workspace directly affects concentration.
-        Visual clutter distracts and overloads the brain.
-        Remove unnecessary items and keep only essentials.
-        A clean space helps you enter work mode faster.
-        It creates a sense of control and structure.
-        Start small — just 5 minutes of cleaning.
-    </string>
+    <string name="tip_10_full">“With its emphasis on breathing practices and meditation—both of which help calm and center the mind—it’s hardly surprising that yoga also brings mental benefits, such as reduced anxiety and depression,” writes Harvard Health Publishing.</string>
 
-    <string name="tip_11_title">Meditation</string>
+    <string name="tip_11_title">Meditate</string>
     <string name="tip_11_short">5 minutes of silence.</string>
-    <string name="tip_11_full">
-        Meditation helps reduce stress and anxiety.
-        Just 5 minutes of calm breathing without distractions is enough.
-        Focus on your inhales and exhales.
-        It improves awareness and emotional control.
-        Over time, you’ll notice better concentration.
-        Consistency matters more than duration.
-    </string>
+    <string name="tip_11_full">There are plenty of studies that show just how many benefits there are to meditating—whether it’s lowering your stress levels or helping you relax—but it can also make you really happy.</string>
 
-    <string name="tip_12_title">No Notifications</string>
+    <string name="tip_12_title">Go on a silent walk</string>
     <string name="tip_12_short">Turn off the unnecessary.</string>
-    <string name="tip_12_full">
-        Constant notifications break attention and interrupt deep work.
-        Keep only truly important alerts enabled.
-        Everything else can be checked at a convenient time.
-        This reduces stress and increases focus.
-        Fewer external distractions mean higher productivity.
-        Try spending a day with minimal interruptions.
-    </string>
+    <string name="tip_12_full">Yes, you’ll want to leave your headphones at home when you go on a silent walk. But it’s about so much more than that.</string>
 
-    <string name="tip_13_title">Deep Work</string>
+    <string name="tip_13_title">Listen for the birds</string>
     <string name="tip_13_short">90 minutes of focus.</string>
-    <string name="tip_13_full">
-        Deep work is a period of maximum concentration without distractions.
-        Dedicate 60–90 minutes to your most difficult task.
-        Turn off notifications and put your phone away.
-        This approach allows faster progress on important projects.
-        The quality of results significantly improves.
-        It’s one of the key skills of successful people.
-    </string>
+    <string name="tip_13_full">While you’re outside on a walk or hike, listen in for birds.</string>
 
-    <string name="tip_14_title">Exercise</string>
+    <string name="tip_14_title">Walk barefoot</string>
     <string name="tip_14_short">Stretch for 10 minutes.</string>
-    <string name="tip_14_full">
-        A short workout boosts circulation and increases energy.
-        Even 10 minutes of simple exercises make a noticeable difference.
-        Physical activity improves mood through endorphin release.
-        It helps you cope better with stress.
-        Consistency matters more than intensity.
-        Start with basic movements.
-    </string>
+    <string name="tip_14_full">If you have easy access to a sandy beach or grassy area, take off your shoes and enjoy it, suggests certified life coach Andrena Liu., who refers to this technique as “grounding” or “Earthing.”</string>
 
-    <string name="tip_15_title">Healthy Eating</string>
+    <string name="tip_15_title">Put your hand on your heart</string>
     <string name="tip_15_short">Have a light lunch.</string>
-    <string name="tip_15_full">
-        A light and balanced lunch helps maintain energy throughout the day.
-        Heavy food causes drowsiness and lowers productivity.
-        Choose proteins, vegetables, and complex carbohydrates.
-        Proper nutrition improves mental clarity.
-        It’s the foundation of sustainable performance.
-        Your body will respond gratefully to care.
-    </string>
+    <string name="tip_15_full">Breathing with one hand on your heart is common in the yoga practice, and it’s for good reason. “Physical touch activates the parasympathetic nervous system, which helps us feel calm and safe, and releases oxytocin, a hormone that produces feelings of security and connection,” explains McKleroy.</string>
 
-    <string name="tip_16_title">Success Journal</string>
+    <string name="tip_16_title">Listen to upbeat music</string>
     <string name="tip_16_short">Write down 3 wins.</string>
-    <string name="tip_16_full">
-        A success journal helps track achievements, even small ones.
-        Write down three things that went well today.
-        It builds positive thinking.
-        Over time, you’ll notice growing confidence.
-        This approach reduces inner criticism.
-        Small wins create strong motivation.
-    </string>
+    <string name="tip_16_full">“Research shows that listening to upbeat music can immediately lift us out of a bad mood,” notes McKleroy. “Play one of your favorite upbeat songs, or better yet, make a 10-minute playlist and listen to it every day for two weeks for best results.</string>
 
-    <string name="tip_17_title">Learn to Say No</string>
+    <string name="tip_17_title">Take a nap</string>
     <string name="tip_17_short">Say “no” to the unnecessary.</string>
-    <string name="tip_17_full">
-        The ability to say “no” protects your time and energy.
-        Not every request must become your responsibility.
-        Focus on tasks that move you toward your goals.
-        Refusal is not rudeness — it’s prioritization.
-        Clear boundaries increase productivity.
-        Learn to choose what matters most.
-    </string>
+    <string name="tip_17_full">A short nap in the afternoon can revitalize you if you’re feeling sleepy, but it can also make you super happy: A 2022 study published in the Journal of Sleep Research found that a 40-minute nap “may be a useful way to improve mood while experiencing an acute stressor.”</string>
 
-    <string name="tip_18_title">Change of Activity</string>
+    <string name="tip_18_title">Take a bath</string>
     <string name="tip_18_short">Switch to a hobby.</string>
-    <string name="tip_18_full">
-        Changing activities helps overcome creative blocks.
-        If you feel tired, switch to a hobby or physical activity.
-        A new context refreshes the brain.
-        After a short break, tasks feel easier.
-        It reduces tension and boosts creativity.
-        Balance is essential for long-term productivity.
-    </string>
+    <string name="tip_18_full">For many of us, there’s nothing quite as soothing as slipping into a hot bath at the end of a stressful day. Now, research backs up the notion that regular baths can improve your physical and mental health.</string>
 
-    <string name="tip_19_title">Reward Yourself</string>
+    <string name="tip_19_title">Drink a cup of coffee</string>
     <string name="tip_19_short">Give yourself a small reward.</string>
-    <string name="tip_19_full">
-        Rewarding yourself strengthens motivation.
-        After completing a difficult task, give yourself a small treat.
-        It could be coffee, a walk, or a short break.
-        The brain connects effort with positive results.
-        This builds a habit of finishing what you start.
-        Moderation is key.
-    </string>
+    <string name="tip_19_full">Coffee isn’t just a great way to start your day with a little energy—it’s also a mild antidepressant. According to a 2011 study published in JAMA, the caffeine releases dopamine and serotonin that gives you that amazing high-on-life feeling, making you feel happier overall.</string>
 
-    <string name="tip_20_title">Learn Something New</string>
+    <string name="tip_20_title">Stay off social media</string>
     <string name="tip_20_short">One new word or fact.</string>
-    <string name="tip_20_full">
-        Learning something new keeps your thinking flexible.
-        It can be a foreign word or an interesting fact.
-        Small pieces of knowledge accumulate into a strong base.
-        Regular learning helps you adapt faster to change.
-        The brain loves novelty.
-        Make growth a daily habit.
-    </string>
+    <string name="tip_20_full">Sure, scrolling through social media can be fun—but it can also really mess with your head. “Social media can negatively impact our overall wellbeing by fueling anxiety, depression, loneliness and FOMO (fear or missing out),” writes UC Davis Health.</string>
 
-    <string name="tip_21_title">Sleep</string>
+    <string name="tip_21_title">Watch funny videos</string>
     <string name="tip_21_short">Sleep 7–8 hours.</string>
-    <string name="tip_21_full">
-        Sleep is the foundation of productivity and health.
-        During sleep, the brain processes information and recovers.
-        Lack of sleep reduces concentration and willpower.
-        Try to go to bed and wake up at the same time.
-        Quality rest enhances all other habits.
-        Sustainable growth is impossible without it.
-    </string>
+    <string name="tip_21_full">One way you can get yourself giggling is by watching some funny videos. That’s exactly what researchers had participants do in a 2014 study published in the journal Advances in Mind-Body Medicine—and it worked, making them less stressed and happier overall.</string>
 
-    <string name="tip_22_title">Visualization</string>
+    <string name="tip_22_title">Spend time with friends</string>
     <string name="tip_22_short">Imagine the result.</string>
-    <string name="tip_22_full">
-        Visualization prepares the brain for success.
-        Imagine completing the task and feeling satisfied.
-        It reduces fear before starting.
-        The brain perceives vivid images almost like real experience.
-        This technique increases confidence.
-        Spend just a couple of minutes before beginning work.
-    </string>
+    <string name="tip_22_full">Getting together with friends is a great way to boost your happiness levels.</string>
 
-    <string name="tip_23_title">Listen to Podcasts</string>
+    <string name="tip_23_title">Do any type of exercise you like</string>
     <string name="tip_23_short">Learn on the go.</string>
-    <string name="tip_23_full">
-        Podcasts allow you to combine learning with daily activities.
-        Use commuting time or walks productively.
-        Choose high-quality educational content.
-        It broadens your perspective without overloading your schedule.
-        Even 20 minutes a day makes a difference.
-        Consistency matters.
-    </string>
+    <string name="tip_23_full">Whether it’s jogging, spinning, strength training, or simply walking, moving your body is one of the simplest things you can do to feel happier.</string>
 
-    <string name="tip_24_title">Analyze Mistakes</string>
+    <string name="tip_24_title">Take a dance break</string>
     <string name="tip_24_short">What went wrong?</string>
-    <string name="tip_24_full">
-        Mistakes are a natural part of growth.
-        Instead of self-criticism, analyze what can be improved.
-        Write down conclusions and apply them in the future.
-        This turns failures into experience.
-        Self-analysis builds maturity and resilience.
-        Don’t be afraid to try again.
-    </string>
+    <string name="tip_24_full">As we know, when we exercise, our brain releases feel-good chemicals. But according to neuroscientist Friederike Fabritius, MS, dancing is particularly great for boosting you mood.</string>
 
-    <string name="tip_25_title">Do a Good Deed</string>
+    <string name="tip_25_title">Get yourself flowers</string>
     <string name="tip_25_short">Help someone.</string>
-    <string name="tip_25_full">
-        Good deeds increase life satisfaction.
-        Helping others strengthens your sense of purpose.
-        It can be a small gesture or kind words.
-        Positive emotions return to you.
-        Social connections grow stronger.
-        Doing good energizes you.
-    </string>
+    <string name="tip_25_full">Not only will a fresh bouquet of flowers brighten up your home, but it’ll also give you an instant boost of happiness.</string>
 
-    <string name="tip_26_title">Eat the Frog Rule</string>
+    <string name="tip_26_title">Get some sunshine</string>
     <string name="tip_26_short">Do the hardest task first.</string>
-    <string name="tip_26_full">
-        The “eat the frog” rule suggests starting your day with the most difficult task.
-        Completing the unpleasant task first clears your mind.
-        Other tasks will feel easier afterward.
-        It reduces anxiety and procrastination.
-        Morning success sets the tone for the whole day.
-        Act without overthinking.
-    </string>
+    <string name="tip_26_full">Let the sunshine in—and you may feel instantly happier. The sun gives us natural vitamin D, which is scientifically proven to affect mood—and it can be even more integral if you have a deficiency.</string>
 
-    <string name="tip_27_title">Brain Dump</string>
+    <string name="tip_27_title">Make a list of accomplishments</string>
     <string name="tip_27_short">Write everything down.</string>
-    <string name="tip_27_full">
-        A brain dump reduces internal chaos.
-        Write all thoughts and tasks on paper or in notes.
-        It frees working memory.
-        You’ll see priorities more clearly.
-        Fewer thoughts mean more clarity.
-        A simple technique that works instantly.
-    </string>
+    <string name="tip_27_full">Executive coach Irina Mihaela, founder of Entrepreneur Enlightenment, suggests making a list of all your accomplishments, big and small (“even the spelling bee you won in grade school”), and keeping it handy.</string>
 
-    <string name="tip_28_title">5-Second Rule</string>
+    <string name="tip_28_title">Take a cold shower</string>
     <string name="tip_28_short">Count 5-4-3-2-1-Go!</string>
-    <string name="tip_28_full">
-        The 5-second rule helps overcome inner resistance.
-        When you don’t feel like starting, count 5-4-3-2-1 and act.
-        It shifts the brain from thinking mode to action mode.
-        A small start destroys procrastination.
-        Over time, starting becomes easier.
-        Don’t give yourself time to reconsider.
-    </string>
+    <string name="tip_28_full">“Brief exposure to cold can activate the sympathetic nervous system, increase blood level of beta-endorphin, and increase metabolic rate. All of these can lead to feelings of euphoria,” states Liu.</string>
 
-    <string name="tip_29_title">Evaluate Progress</string>
+    <string name="tip_29_title">Recite positive affirmations</string>
     <string name="tip_29_short">Compare yourself to yesterday.</string>
-    <string name="tip_29_full">
-        Evaluating personal progress helps maintain motivation.
-        Compare yourself only to your past self.
-        Even a small step forward is an achievement.
-        Others’ results don’t reflect your reality.
-        Focus on your own growth to build confidence.
-        Move forward gradually.
-    </string>
+    <string name="tip_29_full">Saying out loud or writing down positive affirmations takes just a few seconds but can make a big impact on your mood.</string>
 
-    <string name="tip_30_title">Marathon Finale</string>
+    <string name="tip_30_title">Take a break</string>
     <string name="tip_30_short">Well done!</string>
-    <string name="tip_30_full">
-        Completing the month is a time to reflect.
-        Analyze which habits became part of your routine.
-        Celebrate your achievements and insights.
-        Choose several practices you want to keep.
-        A mindful ending helps you begin a new stage.
-        You’ve already done great work — keep moving forward.
-    </string>
+    <string name="tip_30_full">Sometimes, if you’re feeling down, you just need to take a break from things.</string>
 
 </resources>
