@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         val recyclerView = findViewById<RecyclerView>(R.id.recyclerView)
         recyclerView.layoutManager = LinearLayoutManager(this)
 
-        recyclerView.adapter = TipsAdapter(TipRepository.tips) { tip ->
+        recyclerView.adapter = TipsAdapter(TipRepository.asArray()) { tip ->
             val intent = Intent(this, DetailActivity::class.java).apply {
                 putExtra("TIP_ID", tip.id)
             }
